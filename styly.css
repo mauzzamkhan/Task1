@@ -1,0 +1,148 @@
+body{
+    margin: 0px!important ;
+    padding: 0px;
+    font-family: 'Poppins', sans-serif;
+}
+.contact-us {
+    background-color: #F4F2FF;
+    height: 400px;
+    align-items: center;
+    margin: auto;
+}
+.head{
+    font-size: 24px;
+    text-align: center;
+    margin: 0px;
+    padding: 40px;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 500;
+    color: #1B1957;
+
+}
+p{
+    color: #201F28;
+    font-size: 16px;
+    font-weight: 500;
+}
+
+.box{
+    display: flex;
+    justify-content: center;
+
+}
+.text-center{
+    text-align: center;
+}
+.icon_box{
+    padding: 20px;
+    
+    
+}
+.icon-style{
+    color: #E45B34;
+font-size: 30px;
+}
+
+h3{
+    color: #E45B34;
+    font-size: 20px;
+    font-weight: 700;
+    letter-spacing: 0.2px;
+
+}
+.section-2{
+        padding: 40px 80px 40px 80px;
+        background-color: #FFF;
+        width: 800px;
+        margin: auto;
+        margin-top: -120px;
+        
+}
+.form_field {
+    font-size: 16px;
+    font-weight: 500;
+    border: none;
+    padding-top: 20px ;
+    padding-bottom: 8px;
+    width: 100%;
+    border-bottom: 1px solid #BABABA!important;
+    outline: none;
+    color: #252525;
+}
+input{
+    border: none;
+}
+.col-6{
+    width: 50%;
+    margin: 0px 10px 0px 0px ;
+}
+.subject{
+    width: 39%;
+    font-size: 16px;
+    font-weight: 600;
+}
+.text{
+    font-size: 16px;
+    font-weight: 400;
+    font-family: 'Poppins', sans-serif;
+    text-align: start;
+    color: #252525;
+
+}
+.btn{
+    background-color: #E45B34;
+    color: #fff;
+    margin: auto;
+    margin-top: 100px;
+    border-radius: 200px;
+    padding: 10px 50px;
+    font-size: 18px;
+}
+.container{
+    text-align: center;
+}
+.section3{
+    background-color: #F4F2FF;
+    margin: 0px;
+    width: 100%;
+    text-align: center;
+
+    display: flex;
+    justify-content: center;
+    
+}
+.card{
+    background-color: #fff;
+    width: 200px;
+    padding: 20px 40px 40px 40px;
+    margin: 0px 20px 20px 20px ;
+    border-radius: 12px;
+}
+
+.container{
+    display:block;
+
+}
+.our-office{
+    width: 1200px;
+}
+.card-section{
+    display: flex;
+    
+}
+h5{
+    font-size: 14px;
+    font-weight: 400;
+}
+img{
+    width: 50px;
+    height: 50px;
+    border-radius: 100px;
+    border: solid 2px #FFF;
+    margin-top: -40px;
+    
+    object-fit: cover;
+    box-shadow: 1px 4px 8px rgba(0, 0, 0, 0.187);
+    border-radius: 41px;
+
+}
